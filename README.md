@@ -11,12 +11,16 @@ https://drive.google.com/file/d/1rFkRuL-wU-a3R8Om2rHHpGp2DjX6_K2T/view?usp=drive
 
 software
 --------
-+ python 3.10
++ python 3.10.14
 + cuda 11.8 (nvidia gpu)
 + nvidia-cudnn-cu11 = "==8.6.0.163"
 + tensorflow = "==2.12.0"
 + protobuf = "==3.20.*"
 + tensorflow-probability = "==0.20.0"
++ optimistix= "==3.20.*"0.0.7 
 
 + recent versions of the usual scientific python stack
 (numpy, scipy, matplotlib etc)
+
+
+Run the Fitting Vertex as a first example runs
